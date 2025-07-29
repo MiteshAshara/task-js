@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "college": "Gujarat University",
+    "college_branch": "B.Tech IT",
+    "DOB": "1999-03-22",
+    "age": 25,
+    "clg_joining_date": "2021-08-01",
+    "passing_year": 2025,
+    "image": "https://dummyimage.com/400x600",
+    "gender": "Female",
+    "email": "priya.sharma@gmail.com",
+    "mobile": "98765432100",
+    "hobbies": [
+      "Cooking",
+      "Dancing",
+      "Photography"
+    ],
+    "address": "SG Highway, Ahmedabad",
+    "pincode": "380015",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Patel",
+    "college": "PDEU",
+    "college_branch": "B.Tech CSE",
+    "DOB": "2001-11-08",
+    "age": 23,
+    "clg_joining_date": "2022-06-20",
+    "passing_year": 2026,
+    "image": "https://dummyimage.com/350x500",
+    "gender": "Male",
+    "email": "rahul.patel@yahoo.com",
+    "mobile": "87654321098",
+    "hobbies": [
+      "Gaming",
+      "Cricket",
+      "Music"
+    ],
+    "address": "Bopal, Ahmedabad",
+    "pincode": "380058",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India"
+  },
+  {
+    "id": 3,
+    "name": "Sneha Joshi",
+    "college": "Nirma University",
+    "college_branch": "MBA",
+    "DOB": "1998-09-15",
+    "age": 26,
+    "clg_joining_date": "2023-01-10",
+    "passing_year": 2025,
+    "image": "https://dummyimage.com/420x650",
+    "gender": "Female",
+    "email": "sneha.joshi@hotmail.com",
+    "mobile": "76543210987",
+    "hobbies": [
+      "Painting",
+      "Yoga",
+      "Reading"
+    ],
+    "address": "Satellite, Ahmedabad",
+    "pincode": "380015",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "country": "India"
+  },
+  {
+    "id": 4,
+    "name": "Arjun Mehta",
+    "college": "IIT Gandhinagar",
+    "college_branch": "B.Tech Mechanical",
+    "DOB": "2002-01-30",
+    "age": 22,
+    "clg_joining_date": "2021-07-25",
+    "passing_year": 2025,
+    "image": "https://dummyimage.com/380x580",
+    "gender": "Male",
+    "email": "arjun.mehta@iitgn.ac.in",
+    "mobile": "65432109876",
+    "hobbies": [
+      "Football",
+      "Coding",
+      "Travelling"
+    ],
+    "address": "Gandhinagar",
+    "pincode": "382355",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "country": "India"
+  },
+  {
+    "id": 5,
+    "name": "Kavya Singh",
+    "college": "MSU Vadodara",
+    "college_branch": "M.Sc Chemistry",
+    "DOB": "2000-12-05",
+    "age": 24,
+    "clg_joining_date": "2022-08-15",
+    "passing_year": 2024,
+    "image": "https://dummyimage.com/360x550",
+    "gender": "Female",
+    "email": "kavya.singh@msubaroda.ac.in",
+    "mobile": "54321098765",
+    "hobbies": [
+      "Swimming",
+      "Gardening",
+      "Sketching"
+    ],
+    "address": "Sayajigunj, Vadodara",
+    "pincode": "390020",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "country": "India"
+  }
+]
