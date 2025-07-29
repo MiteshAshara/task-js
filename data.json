@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Priya Sharma",
+    "name": "Anjali Verma",
     "college": "Gujarat University",
     "college_branch": "B.Tech IT",
     "DOB": "1999-03-22",
@@ -10,7 +10,7 @@
     "passing_year": 2025,
     "image": "https://dummyimage.com/400x600",
     "gender": "Female",
-    "email": "priya.sharma@gmail.com",
+    "email": "anjali.verma@gmail.com",
     "mobile": "98765432100",
     "hobbies": [
       "Cooking",
@@ -25,7 +25,7 @@
   },
   {
     "id": 2,
-    "name": "Rahul Patel",
+    "name": "Vikram Desai",
     "college": "PDEU",
     "college_branch": "B.Tech CSE",
     "DOB": "2001-11-08",
@@ -34,7 +34,7 @@
     "passing_year": 2026,
     "image": "https://dummyimage.com/350x500",
     "gender": "Male",
-    "email": "rahul.patel@yahoo.com",
+    "email": "vikram.desai@yahoo.com",
     "mobile": "87654321098",
     "hobbies": [
       "Gaming",
@@ -49,7 +49,7 @@
   },
   {
     "id": 3,
-    "name": "Sneha Joshi",
+    "name": "Ritika Shah",
     "college": "Nirma University",
     "college_branch": "MBA",
     "DOB": "1998-09-15",
@@ -58,7 +58,7 @@
     "passing_year": 2025,
     "image": "https://dummyimage.com/420x650",
     "gender": "Female",
-    "email": "sneha.joshi@hotmail.com",
+    "email": "ritika.shah@hotmail.com",
     "mobile": "76543210987",
     "hobbies": [
       "Painting",
@@ -73,7 +73,7 @@
   },
   {
     "id": 4,
-    "name": "Arjun Mehta",
+    "name": "Karan Bhatt",
     "college": "IIT Gandhinagar",
     "college_branch": "B.Tech Mechanical",
     "DOB": "2002-01-30",
@@ -82,7 +82,7 @@
     "passing_year": 2025,
     "image": "https://dummyimage.com/380x580",
     "gender": "Male",
-    "email": "arjun.mehta@iitgn.ac.in",
+    "email": "karan.bhatt@iitgn.ac.in",
     "mobile": "65432109876",
     "hobbies": [
       "Football",
@@ -97,7 +97,7 @@
   },
   {
     "id": 5,
-    "name": "Kavya Singh",
+    "name": "Nisha Rathod",
     "college": "MSU Vadodara",
     "college_branch": "M.Sc Chemistry",
     "DOB": "2000-12-05",
@@ -106,7 +106,7 @@
     "passing_year": 2024,
     "image": "https://dummyimage.com/360x550",
     "gender": "Female",
-    "email": "kavya.singh@msubaroda.ac.in",
+    "email": "nisha.rathod@msubaroda.ac.in",
     "mobile": "54321098765",
     "hobbies": [
       "Swimming",
